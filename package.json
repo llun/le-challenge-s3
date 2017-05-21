@@ -1,0 +1,11 @@
+{
+  "name": "le-challenge-s3",
+  "version": "1.0.0",
+  "description": "A S3 strategy for node-letsencrypt and lambda function for handling challenges",
+  "main": "lib/index.js",
+  "author": "Maythee Anegboonlap<null@llun.me>",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.54.0"
+  }
+}

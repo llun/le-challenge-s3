@@ -1,0 +1,9 @@
+{
+  "name": "letsencrypt",
+  "description": "",
+  "memory": 128,
+  "timeout": 5,
+  "runtime": "nodejs6.10",
+  "role": "arn:aws:iam::107563078874:role/letsencrypt_lambda_function",
+  "environment": {}
+}
