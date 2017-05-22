@@ -4,7 +4,7 @@ Use S3 for storing challenge key from ACME and serve it via AWS Lambda
 
 ## Using
 
-My setup is using with [le-store-s3](llun/le-store-s3) to store all certificates inside S3 and use AWS API gateway to serve challenge.
+My setup is using with [le-store-s3](https://github.com/llun/le-store-s3) to store all certificates inside S3 and use AWS API gateway to serve challenge.
 
 After API Gateway is setup, run script below to register domain
 ```js
