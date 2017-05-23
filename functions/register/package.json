@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "greenlock": "^2.1.15",
+    "le-challenge-s3": "^1.0.0",
+    "le-store-s3": "^1.0.0"
+  }
+}

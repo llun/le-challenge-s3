@@ -1,0 +1,8 @@
+{
+  "timeout": 90,
+  "memory": 512,
+  "hooks": {
+    "build": "npm install",
+    "clean": "rm -rf node_modules"
+  }
+}
