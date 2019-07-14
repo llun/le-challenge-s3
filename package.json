@@ -6,7 +6,7 @@
   "author": "Maythee Anegboonlap <null@llun.me>",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.54.0"
+    "aws-sdk": "^2.493.0"
   },
   "devDependencies": {},
   "scripts": {
