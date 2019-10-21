@@ -285,9 +285,9 @@ le-challenge-fs@^2.0.2:
   dependencies:
     mkdirp "^0.5.1"
 
-le-challenge-s3@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/le-challenge-s3/-/le-challenge-s3-1.0.0.tgz#edd6fd1f684fb8a801c10bf3b941e2822a4b6742"
+le-challenge-s3@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/le-challenge-s3/-/le-challenge-s3-1.0.1.tgz#50b81525de38588128e00ca2322f5be89a8dbcd0"
   dependencies:
     aws-sdk "^2.54.0"
 
@@ -332,8 +332,8 @@ localhost.daplie.me-certificates@^1.3.0:
   resolved "https://registry.yarnpkg.com/localhost.daplie.me-certificates/-/localhost.daplie.me-certificates-1.3.2.tgz#cc2cc06150d032cb0938ae122013a5c98570b6c3"
 
 lodash@^4.0.0:
-  version "4.17.4"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.4.tgz#78203a4d1c328ae1d86dca6460e369b57f4055ae"
+  version "4.17.15"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
 
 mime-db@~1.27.0:
   version "1.27.0"
