@@ -285,9 +285,9 @@ le-challenge-fs@^2.0.2:
   dependencies:
     mkdirp "^0.5.1"
 
-le-challenge-s3@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/le-challenge-s3/-/le-challenge-s3-1.0.0.tgz#edd6fd1f684fb8a801c10bf3b941e2822a4b6742"
+le-challenge-s3@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/le-challenge-s3/-/le-challenge-s3-1.0.1.tgz#50b81525de38588128e00ca2322f5be89a8dbcd0"
   dependencies:
     aws-sdk "^2.54.0"
 
@@ -396,8 +396,8 @@ pyconf@^1.1.2:
     safe-replace "^1.0.2"
 
 qs@~6.4.0:
-  version "6.4.0"
-  resolved "https://registry.yarnpkg.com/qs/-/qs-6.4.0.tgz#13e26d28ad6b0ffaa91312cd3bf708ed351e7233"
+  version "6.4.1"
+  resolved "https://registry.yarnpkg.com/qs/-/qs-6.4.1.tgz#2bad97710a5b661c366b378b1e3a44a592ff45e6"
 
 querystring@0.2.0:
   version "0.2.0"
